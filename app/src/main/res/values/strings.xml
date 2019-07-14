@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoLogOut</string>
+    <string name="hi">Hi, friend! You logged in, after 5 second inactivity, you will be logout!</string>
+</resources>
